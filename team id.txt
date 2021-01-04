@@ -1,0 +1,16 @@
+1- idea title :
+	Snake Game
+
+2- team members (arabic name, english name, id)
+	احمد محمد عبداللاه   ,   ahmed mohamed abdellah , 20170060
+
+	ابراهيم عاطف ابراهيم ,   ibrahim atef ibrahim , 2017007
+	
+	احمد سيد ابراهيم     ,   ahmed sayed ibrahim ,   20170031
+	
+	حسام حسن أبو الغيط   ,   hossam hassan abu el ghet , 20170177
+
+3- registration sheet, row number :
+	
+	row number : 18
+
